@@ -21,7 +21,7 @@ python3 passwordgen.py
 >  
 >--create  generates an random password  
 >--title <value>   tile for Keepass entry  
->--username <value> usernmae for Keepass entry  
+>--username <value> username for Keepass entry  
 >--count  amount of characters  
 >--hide   hide password  
 >--temp   do not write to keepassfile  
